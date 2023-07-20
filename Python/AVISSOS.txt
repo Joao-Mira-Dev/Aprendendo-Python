@@ -1,0 +1,5 @@
+!! AVISOS IMPORTANTE !!
+
+1 - Python não é um alinguagem de tipagem forte.
+2 - Python depende da identação do código para funcionar.
+3 - Python aceita variáveis com acentuação.
